@@ -1,3 +1,5 @@
+This project was created in 2016 and was for my wonderful children.
+
 The intent of this project is, to a large degree, to give my kids something
 to reference as they learn about programming. I can't teach them everything
 I know but I can give them things which I hope provide a useful range of
